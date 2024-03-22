@@ -12,4 +12,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JonasJoKuJonas&repo=homeassistant-trias&theme=dark)](https://github.com/JonasJoKuJonas/homeassistant-trias)
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JonasJoKuJonas&repo=homeassistant-AldiTalk&theme=dark)](https://github.com/JonasJoKuJonas/homeassistant-AldiTalk)
+
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Jonas_JoKu)
