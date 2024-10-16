@@ -15,4 +15,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JonasJoKuJonas&repo=homeassistant-AldiTalk&theme=dark)](https://github.com/JonasJoKuJonas/homeassistant-AldiTalk)
 
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Jonas_JoKu)
+## Support me
+<a href="[https://www.buymeacoffee.com/rogtp](https://www.buymeacoffee.com/Jonas_JoKu)" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174" ></a> 
+<a href="https://www.paypal.com/donate/?hosted_button_id=29CAZV3ZHWDMW">
+  <img src="https://github.com/RogerSelwyn/actions/blob/e82dab9e5643bbb82e182215a748a3024e3e7eac/images/paypal-donate-button.png" alt="Donate with PayPal" height="40"/>
+</a>
