@@ -16,7 +16,7 @@
 
 
 ## Support me ♥️
-I'm a 18-year-old software developer from Germany. I love to develop software in my free time. If you like my projects consider donating a small amount to support my work. 
+I'm a 19-year-old software developer from Germany. I love to develop software in my free time. If you like my projects consider donating a small amount to support my work. 
 
 <a href="https://www.buymeacoffee.com/Jonas_JoKu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174" ></a>
 
