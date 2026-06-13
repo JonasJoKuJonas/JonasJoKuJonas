@@ -11,8 +11,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JonasJoKuJonas&repo=homeassistant-trias&theme=dark)](https://github.com/JonasJoKuJonas/homeassistant-trias)
 
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JonasJoKuJonas&repo=homeassistant-AldiTalk&theme=dark)](https://github.com/JonasJoKuJonas/homeassistant-AldiTalk)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JonasJoKuJonas&repo=homeassistant-MySports&theme=dark)](https://github.com/JonasJoKuJonas/homeassistant-MySports)
 
 
 ## Support me ♥️
